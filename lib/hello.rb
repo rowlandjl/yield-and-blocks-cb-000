@@ -9,4 +9,6 @@ end
 
 # call your method here!
 
-hello_t(["Tim", "Tom", "Jim"])
+hello_t(["Tim", "Tom", "Jim"]) do
+
+end 
